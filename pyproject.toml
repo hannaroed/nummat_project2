@@ -1,0 +1,14 @@
+[project]
+name = "nummat-project2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipywidgets>=8.1.5",
+    "jupyterlab>=4.2.5",
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.2",
+    "pillow>=11.0.0",
+    "scipy>=1.14.1",
+]
